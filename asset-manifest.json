@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Fischer-Tech-Solutions-/static/css/main.44424ebb.css",
+    "main.js": "/Fischer-Tech-Solutions-/static/js/main.4d730660.js",
+    "static/media/lightBulb.jpg": "/Fischer-Tech-Solutions-/static/media/lightBulb.fbd1d966a37e00aecd4d.jpg",
+    "index.html": "/Fischer-Tech-Solutions-/index.html",
+    "main.44424ebb.css.map": "/Fischer-Tech-Solutions-/static/css/main.44424ebb.css.map",
+    "main.4d730660.js.map": "/Fischer-Tech-Solutions-/static/js/main.4d730660.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44424ebb.css",
+    "static/js/main.4d730660.js"
+  ]
+}
