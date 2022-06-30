@@ -1,0 +1,46 @@
+.c-1 {
+    background-color: black;
+}
+
+.lightBulb {
+    width: 10%;
+    height: auto;
+    position: relative;
+    left: 5vw;
+    top: 20px;
+}
+
+.mainTitle {
+    font-size: 3em;
+    position: relative;
+    bottom: 130px;
+    left: 20vw;
+    display: block;
+    color: white;
+    font-weight: 900;
+}
+
+.titleLine {
+    color: white;
+    font-size: 1em;
+    position: relative;
+    bottom: 164px;
+    left: 20vw;
+    font-weight: 500;
+}
+
+.EmailAddress {
+    color: white;
+    position: relative;
+    bottom: 100px;
+    right: 6.9vw;
+    float: right;
+}
+
+.Telephone {
+    color: white;
+    position: relative;
+    bottom: 80px;
+    left: 2.0vw;
+    float: right;
+}

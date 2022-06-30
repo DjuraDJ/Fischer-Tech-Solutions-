@@ -1,0 +1,70 @@
+.fade-in-section {
+    opacity: 0;
+    transform: translateY(10vh);
+    visibility: hidden;
+    transition: opacity 900ms ease-out, transform 500ms ease-out, visibility 900ms ease-out;
+    will-change: opacity, transform, visibility;
+}
+
+.fade-in-section.is-visible {
+    opacity: 1;
+    transform: none;
+    visibility: visible;
+}
+
+.contactHr {
+    width: 10%;
+    padding: 1px;
+    background-color: red;
+    position: relative;
+    bottom: 200px;
+}
+
+.contactUsTitle {
+    position: relative;
+    bottom: 200px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 6ch;
+}
+
+
+/* _____________ */
+
+Form {
+    border: 1px solid lightgray;
+    border-radius: 40px;
+    padding: 60px;
+}
+
+.contactMain {
+    text-align: center;
+    position: relative;
+    bottom: 200px;
+    max-width: 400px;
+    height: auto;
+    margin: 60px auto;
+}
+
+.EmailName {
+    position: relative;
+    bottom: 20px;
+    font-weight: 500;
+}
+
+.Name {
+    position: relative;
+    bottom: 10px;
+}
+
+.submitBtn {
+    position: relative;
+    top: 30px;
+}
+
+.msgBox {
+    position: relative;
+    top: 18px;
+    right: 40px;
+    padding-left: 5em
+}
